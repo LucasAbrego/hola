@@ -1,2 +1,2 @@
 # hola
-Saludos a los compas
+Edición del README de la otra branch
